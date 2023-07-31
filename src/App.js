@@ -7,7 +7,9 @@ function App() {
     <>
     
 <Navbar title ="Shyam  " about="About us"/> {/* that has the props function that change the title */}
-<TextForm/>
+<div className="container">
+<TextForm heading=" Enter the text" my-3/>
+</div>
     </>
   );
 }
