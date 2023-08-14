@@ -1,6 +1,6 @@
 import './App.css';
 import Navbar from './components/Navbar';
-import TextForm from './components/TextForm';
+import TextForm from './components/TextForm.1';
 
 function App() {
   return (
